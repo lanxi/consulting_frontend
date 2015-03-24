@@ -1,0 +1,1 @@
+This is the front-end with jQuery for a consulting web app.
